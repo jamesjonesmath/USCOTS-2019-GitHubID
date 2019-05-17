@@ -31,10 +31,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman       | mdbeckman                 |  <https://mdbeckman.github.io/>                    |  
 | Matt | mdbeckman | some website |
-| Bradford | dykesb | <https://dykesb.github.io> |
-
-<br>
-
+| James Jones | jamesjonesmath| <https://github.com/jamesjonesmath/canvancement> |
 # Integration of RStudio with Git
 
 Check this out: <http://happygitwithr.com/index.html>
